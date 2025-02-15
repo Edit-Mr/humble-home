@@ -9,6 +9,7 @@
 
 - [txt](i18n/home.txt)
 - [txt (English)](i18n/home.en.txt)
+- [JavaScript](i18n/home.js)
 
 ## 授權
 
